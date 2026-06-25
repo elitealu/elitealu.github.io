@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[16782,["/_next/static/chunks/3d_8ott59oze9.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0y8jt1ekac1ec.js"],"default"]
+3:I[22016,["/_next/static/chunks/3d_8ott59oze9.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0y8jt1ekac1ec.js"],""]
+4:I[97367,["/_next/static/chunks/3d_8ott59oze9.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","section",null,{"className":"border-t border-slate-900 bg-slate-950 py-12 text-center text-white","children":["$","div",null,{"className":"mx-auto max-w-xl px-6","children":[["$","p",null,{"className":"text-xs font-mono font-bold uppercase tracking-[0.25em] text-[#EF4444]","children":"Need a dynamic certification drawing details file?"}],["$","p",null,{"className":"mt-3 text-sm leading-7 text-slate-400","children":"Our engineering center outputs standard .dwg, .rvt BIM models directly to project folders."}],["$","$L3",null,{"href":"/contact","className":"mt-5 inline-flex rounded-xl bg-[#EF4444] px-5 py-2.5 text-sm font-bold text-white","children":"Request Drawing Package File"}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0y8jt1ekac1ec.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2nmOqNvlzVjwNPw-_C0Um"}
+6:null
